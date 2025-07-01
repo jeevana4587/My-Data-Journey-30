@@ -42,12 +42,9 @@ Today I focused on understanding:
 - How to structure a portfolio project with real-world value
 
 ### ✅ Videos Watched
-- [How to Think Like a Data Analyst (Alex the Analyst)](https://www.youtube.com/watch?v=kKyaI2Ih3YI)  
-- [What Makes a Great Data Project (Ken Jee)](https://www.youtube.com/watch?v=J3v2yP-sS3E)  
+- [What Does a Data Analyst Actually Do? – Alex the Analyst ](https://www.youtube.com/watch?v=4C8eOudGJ7w)
+- [Data Science Project from Scratch – Planning (Ken Jee)](https://www.youtube.com/watch?v=MpF9HENQjDo)
 - [Power BI for Beginners (Simplilearn – first 38 mins)](https://www.youtube.com/watch?v=AGrl-H87pRU)
-
-### ✅ Article Read
-- [How to Think Analytically – Analytics Vidhya](https://medium.com/analytics-vidhya/data-analysis-how-to-think-analytically-f1edc733f098)
 
 ---
 
