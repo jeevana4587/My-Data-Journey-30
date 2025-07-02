@@ -13,6 +13,7 @@ Power BI:
 - Built my first bar chart: Job Count by Country
 - Added slicer for experience level
 - Saved and documented the dashboard
+
 Pandas:
 - Loaded the dataset into a Pandas DataFrame
 - Used `df.head()`, `df.tail()`, and `df.columns` to understand the structure
@@ -42,6 +43,7 @@ Power BI:
 - The Power BI interface is very user-friendly
 - You can analyze job trends visually without writing code
 - Slicers make dashboards interactive and user-driven
+
 Pandas:
 - It's important to first understand the dataset structure before jumping to visuals
 - Pandas is very effective for quick data inspection and helps spot potential cleaning tasks
