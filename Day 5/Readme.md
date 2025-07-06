@@ -15,3 +15,17 @@
 ---
 
 **Note to self:** This journey is about consistency, not perfection. One missed day doesn't break the goal. Staying on track ✅
+
+
+# Day 5 – Python-Based Data Cleaning ✅
+
+**Task Completed:**  
+Cleaned the job market dataset using Pandas:
+- Handled missing values
+- Standardized column names
+- Fixed inconsistent entries (e.g., salary formats, job titles)
+- Removed irrelevant columns
+
+📁 Output saved as `cleaned_dataset.csv`
+
+✅ This cleaned data is now ready for visual analysis (Day 6)
