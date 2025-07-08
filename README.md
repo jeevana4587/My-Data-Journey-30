@@ -19,7 +19,8 @@ A data-driven exploration of worldwide hiring trends, salary patterns, and skill
 | Day 5  | Python Data Cleaning                  | ❌ Missed (will complete with Day 6)     |
 | Day 6  | Coming up...                          | ⏳ In Progress                           |
 | Day 7  | Watched videos in data analytics      | ✅ Completed                             |
----
+| Day 8  | Skipped – will combine with Day 9     | 🌀 Skipped                               |
+--
 
 ## 📂 Folder Structure
 
