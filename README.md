@@ -18,7 +18,7 @@ A data-driven exploration of worldwide hiring trends, salary patterns, and skill
 | Day 4  | Pandas Basics + Data Inspection       | ✅ Completed                             |
 | Day 5  | Python Data Cleaning                  | ❌ Missed (will complete with Day 6)     |
 | Day 6  | Coming up...                          | ⏳ In Progress                           |
-
+| Day 7  | Watched videos in data analytics      | ✅ Completed                             |
 ---
 
 ## 📂 Folder Structure
