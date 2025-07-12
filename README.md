@@ -20,6 +20,7 @@ A data-driven exploration of worldwide hiring trends, salary patterns, and skill
 | Day 6  | Coming up...                          | ⏳ In Progress                           |
 | Day 7  | Watched videos in data analytics      | ✅ Completed                             |
 | Day 8  | Skipped – will combine with Day 9     | 🌀 Skipped                               |
+| Day 9  |
 --
 
 ## 📂 Folder Structure
