@@ -20,7 +20,11 @@ A data-driven exploration of worldwide hiring trends, salary patterns, and skill
 | Day 6  | Coming up...                          | ⏳ In Progress                           |
 | Day 7  | Watched videos in data analytics      | ✅ Completed                             |
 | Day 8  | Skipped – will combine with Day 9     | 🌀 Skipped                               |
-| Day 9  |
+| Day 9  | Performed EDA and Visualizations      | ✅ Completed                             |
+| Day 10 | Created Power BI dashboard            | ✅ Completed                             |
+| Day 11 | Power BI filtering and layout polish   | 🌀 Skipped – resumed in Day 13          |
+| Day 12 | Continued dashboard or new EDA         | ❌ Missed – Django project in focus     |
+
 --
 
 ## 📂 Folder Structure
