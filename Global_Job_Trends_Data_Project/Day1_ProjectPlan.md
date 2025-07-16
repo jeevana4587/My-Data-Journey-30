@@ -29,9 +29,7 @@ To analyze global job market trends for data-related roles using real-world data
 ## 📊 Datasets Shortlisted
 
 - [Data Science Salaries 2023 – Kaggle](https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023)  
-- [Real World Job Postings – Kaggle](https://www.kaggle.com/datasets/shivamb/real-world-job-postings)  
-- [LinkedIn Global Talent Trends](https://www.linkedin.com/business/talent/blog/talent-strategy/global-talent-trends)
-
+- [Data Science Job Postings & Skills (2024) - Kaggle](https://www.kaggle.com/datasets/asaniczka/data-science-job-postings-and-skills?utm_source=chatgpt.com)
 ---
 
 ## 📘 Day 1 Learning Summary
